@@ -14,6 +14,7 @@
 		B71E3D4D230856AF00AE5FCF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = B71E3D4B230856AF00AE5FCF /* LaunchScreen.storyboard */; };
 		B71E3D58230856AF00AE5FCF /* XCTestDemoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71E3D57230856AF00AE5FCF /* XCTestDemoTests.swift */; };
 		B71E3D63230856AF00AE5FCF /* XCTestDemoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = B71E3D62230856AF00AE5FCF /* XCTestDemoUITests.swift */; };
+		B7EE68E723086BD900F5681D /* TableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7EE68E623086BD900F5681D /* TableViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		B71E3D5E230856AF00AE5FCF /* XCTestDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XCTestDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		B71E3D62230856AF00AE5FCF /* XCTestDemoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = XCTestDemoUITests.swift; sourceTree = "<group>"; };
 		B71E3D64230856AF00AE5FCF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		B7EE68E623086BD900F5681D /* TableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TableViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				B71E3D42230856AD00AE5FCF /* AppDelegate.swift */,
 				B71E3D44230856AD00AE5FCF /* ViewController.swift */,
+				B7EE68E623086BD900F5681D /* TableViewController.swift */,
 				B71E3D46230856AD00AE5FCF /* Main.storyboard */,
 				B71E3D49230856AF00AE5FCF /* Assets.xcassets */,
 				B71E3D4B230856AF00AE5FCF /* LaunchScreen.storyboard */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				B71E3D45230856AD00AE5FCF /* ViewController.swift in Sources */,
+				B7EE68E723086BD900F5681D /* TableViewController.swift in Sources */,
 				B71E3D43230856AD00AE5FCF /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

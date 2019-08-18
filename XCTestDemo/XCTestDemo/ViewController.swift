@@ -8,7 +8,7 @@
 
 import UIKit
 
-fileprivate let cellIdentifier = "cellIdentifier"
+fileprivate let cellIdentifier = "unitTestCellIdentifier"
 
 class ViewController: UIViewController {
     
